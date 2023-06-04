@@ -1,0 +1,18 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', Arial, Helvetica,  sans-serif;
+    background: rgb(190,114,196);
+    background: linear-gradient(25deg, rgba(190,114,196,1) 10%,
+     rgba(198,178,236,1) 33%,
+      rgba(0,194,255,1) 98%, rgba(0,194,255,1) 100%);
+      background-repeat: no-repeat;      
+}
+
+#root{
+    margin: 0 24px;
+    position: relative;
+    min-height: 100vh;
+}
+
